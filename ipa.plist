@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/sunxiaod168/myblog/blob/gh-pages/HuaXiaMobileOA.ipa</string>
+                        <string>http://git.oschina.net/sunxiaodong/Test/raw/master/HuaXiaMobileOA.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
